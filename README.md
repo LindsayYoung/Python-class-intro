@@ -44,6 +44,8 @@ I will now sign up for [PythonAnyware](https://www.pythonanywhere.com/).
 
 In Python, we work with objects. Thiat means we create, store and change objects in our programs. Useful objects are things like numbers and words. As we continue, we will make much more complex objects, but lets start with the basics. (See the [python documantation](https://docs.python.org/2/library/types.html) if you want to sneek a peek.)
 
+###Variables
+
 We can also create variables in python. You can think of creating variables as naming objects so you can remember them later and when you call them, they will be ready for you. Variable names can't start with numbers and they can't have spaces.
 
 Let's see a simple example of assigning a variable in the python console:
@@ -99,7 +101,7 @@ Now, in the python shell, we will use some functions to find out what type an ob
 
 ###User input
 
-Let's ask the user what they want.
+Let's ask the user what they want. We do that by using a function called `raw_input()` we will pass the instructions for the user into the parenthesis. Our instructions are in quotes because we are passing a string.
 
 ```
 >>> answer = raw_input("type your name")
@@ -129,8 +131,8 @@ OK, now we are ready to make a file with a madlibs game!
 #Additional resources
 (Feel free to add more resources)
 
-Trainings
-* (Hear Me Code)[http://hearmecode.com/]
+Trainings:
+* [Hear Me Code](http://hearmecode.com/)
 
 The official Python documentation:
 * [http://docs.python.org/](http://docs.python.org/)
