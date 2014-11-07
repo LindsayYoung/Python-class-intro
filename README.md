@@ -102,22 +102,22 @@ Now, in the python shell, we will use some functions to find out what type an ob
 Let's ask the user what they want.
 
 ```
->>>answer = raw_input("type your name")
->>>print "hello"
->>>print answer
+>>> answer = raw_input("type your name")
+>>> print "hello"
+>>> print answer
 ```
 
 But, what if we want to print this all on one line. For that, we will want to print our variable in the middle of a sentence.
 
 ```
->>>answer = raw_input("type your name")
->>>print "hello, %s!" %(answer)
+>>> answer = raw_input("type your name")
+>>> print "hello, %s!" %(answer)
 ```
 We can add as may variables as we want!
 
 ```
->>>statement = "I like %s %s!" % ("fluffy", "bunnies")
->>>print(statement)
+>>> statement = "I like %s %s!" % ("fluffy", "bunnies")
+>>> print(statement)
 ```
 OK, now we are ready to make a file with a madlibs game!
 
