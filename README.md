@@ -125,5 +125,30 @@ OK, now we are ready to make a file with a madlibs game!
 
 (You can see a full example [here](https://github.com/LindsayYoung/Python-class-intro/blob/master/example_libs.py).)
 
+***
+#Additional resources
+(Feel free to add more resources)
+
+Trainings
+* (Hear Me Code)[http://hearmecode.com/]
+
+The official Python documentation:
+* [http://docs.python.org/](http://docs.python.org/)
+
+Additional practice:
+* [http://www.codecademy.com/](http://www.codecademy.com/)
+* [http://learnpythonthehardway.org/book/](http://learnpythonthehardway.org/book/)
+
+Book:
+* [Hello World](http://www.barnesandnoble.com/listing/2691811512844?r=1&cm_mmc=GooglePLA-_-Book_25To44-_-Q000000633-_-2691811512844)
+
+Other Resources:
+
+* Beginning guide [https://wiki.python.org/moin/BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+* A repository with good examples to use as reference[anthonydb/python-get-started](https://github.com/anthonydb/python-get-started)
+
+* A list of reserved words [python.org](https://docs.python.org/release/2.5.4/ref/keywords.html)
+
 
 
