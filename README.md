@@ -1,8 +1,8 @@
 
 Python Class
 ============
-18F Women in Tech & Data Hackathon + Training Day
 1hr 15min introduction to Python
+18F Women in Tech & Data Hackathon + Training Day
 ----
 
 ###Introduction
