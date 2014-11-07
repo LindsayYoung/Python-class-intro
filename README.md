@@ -3,6 +3,7 @@ Python Class
 ============
 18F Women in Tech & Data Hackathon + Training Day
 1hr 15min introduction to Python
+----
 
 ###Introduction
 
@@ -112,5 +113,15 @@ But, what if we want to print this all on one line. For that, we will want to pr
 answer = raw_input("type your name")
 print "hello, %s!" %(answer)
 ```
+We can add as may variables as we want!
+
+```
+statement = "I like %s %s!" % ("fluffy", "bunnies")
+print(statement)
+```
+OK, now we are ready to make a file with a madlibs game!
+
+(You can see a full example [here](https://github.com/LindsayYoung/Python-class-intro/blob/master/example_libs.py).)
+
 
 
