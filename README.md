@@ -97,7 +97,7 @@ Now, in the python shell, we will use some functions to find out what type an ob
 
 ```
 
-####User input
+###User input
 
 Let's ask the user what they want.
 
@@ -107,7 +107,7 @@ Let's ask the user what they want.
 >>> print answer
 ```
 
-####String Formatting
+###String Formatting
 
 But, what if we want to print this all on one line. For that, we will want to print our variable in the middle of a sentence.
 
