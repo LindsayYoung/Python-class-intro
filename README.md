@@ -140,6 +140,7 @@ The official Python documentation:
 Additional practice:
 * [http://www.codecademy.com/](http://www.codecademy.com/)
 * [http://learnpythonthehardway.org/book/](http://learnpythonthehardway.org/book/)
+* [Another multi-part training I did.](https://github.com/LindsayYoung/python-class)
 
 Book:
 * [Hello World](http://www.barnesandnoble.com/listing/2691811512844?r=1&cm_mmc=GooglePLA-_-Book_25To44-_-Q000000633-_-2691811512844)
